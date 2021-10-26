@@ -1,0 +1,16 @@
+.error{
+	color: #dc3545;
+}
+.input-group label.error{
+    top: 100%;
+	position: absolute;
+}
+.modal .btn-close{
+	background-color:#fff !important;
+}
+.modal .btn--secondary{
+	color:#fff !important;
+}
+.modal .btn--base{
+	color:#000 !important;
+}

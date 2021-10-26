@@ -1,0 +1,242 @@
+{
+    "banner": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Banner Section",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x983"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text",
+            "button": "text",
+            "button_link": "text"
+        }
+    },
+
+    "breadcrumb": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Breadcrumb Section",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x983"
+                }
+            }
+        }
+    },
+
+    "overview": {
+        "builder": true,
+        "name": "Overview Section",
+        "no_selection":true,
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "number": "text",
+            "modal": true
+        }
+    },
+    "latest_games": {
+        "builder": true,
+        "name": "Latest Games",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "lottery": {
+        "builder": true,
+        "name": "Lottery Section",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "how_work": {
+        "builder": true,
+        "name": "How It Works",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "title": "text",
+            "content": "textarea",
+            "modal": true
+        }
+    },
+    "statistics": {
+        "builder": true,
+        "name": "Statistics",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "cta": {
+        "builder": true,
+        "name": "CTA Section",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x999"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text",
+            "button": "text",
+            "button_link": "text"
+        }
+    },
+    "feature": {
+        "builder": true,
+        "name": "Feature Section",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "content": "textarea",
+            "modal": true
+        }
+    },
+    "faq": {
+        "builder": true,
+        "name": "FAQ Section",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"364x500"
+                }
+            }
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea",
+            "modal": true
+        }
+    },
+    "recent_winners": {
+        "builder": true,
+        "name": "Recent Winners",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial Section",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "images":{
+                "image":{
+                    "size":"75x75"
+                }
+            },
+            "name": "text",
+            "designation": "text",
+            "rating": "text",
+            "review": "textarea",
+            "modal": true
+        }
+    },
+    "payments": {
+        "builder": true,
+        "name": "Payment Gateways",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "images":{
+                "image":{
+                    "size":"64x50"
+                }
+            },
+            "modal": true
+        }
+    },
+    "subscribe": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Subscribe Section",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "about": {
+        "builder": true,
+        "name": "About Us",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"636x358"
+                }
+            },
+            "title": "text",
+            "content": "textarea-nic"
+        }
+    },
+    "contact": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Contact Section",
+        "content": {
+            "title": "text",
+            "content": "textarea",
+            "address": "text",
+            "phone": "text",
+            "email": "text"
+        }
+    },
+
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "images":{
+                "image":{
+                    "size":"768x512"
+                }
+            },
+            "title": "text",
+            "short_description": "textarea",
+            "description_nic": "textarea-nic",
+            "modal": false
+        }
+    },
+
+    "footer": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer Section",
+        "content": {
+            "copyright": "text"
+        },
+        "element": {
+            "social_icon": "icon",
+            "social_link": "text",
+            "modal": true
+        }
+    },
+
+    "extra": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Extra Pages",
+        "element": {
+            "title": "text",
+            "description": "textarea-nic",
+            "modal": false
+        }
+    }
+}
